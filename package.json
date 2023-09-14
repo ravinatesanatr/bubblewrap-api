@@ -15,6 +15,7 @@
     "dist/index.d.ts",
     "dist/index.js",
     "bin",
+    "src",
     "package.json"
   ],
   "keywords": [],
