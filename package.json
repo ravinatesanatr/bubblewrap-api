@@ -1,6 +1,6 @@
 {
   "name": "bubblewrap-api",
-  "version": "1.21.0",
+  "version": "1.0.2",
   "description": "Trimmed version of bubblewrap cli",
   "engines": {
     "node": ">=14.15.0"
